@@ -2,6 +2,8 @@
 
 We can create really cool animations using JavaScript and HTML5 Canvas. To create our 2D animation we will use Sprites.
 
+- [Example](https://emeeneu.github.io/lab-sprite-animation/)
+
 ## Sprite
 
 Sprite is a normal 2D bitmap image that is considered as a single frame of our animation.
