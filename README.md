@@ -16,7 +16,7 @@ When we join together many sprites into a single bitmap we get a spritesheet. So
 
 The main thing we need is a SpriteSheet. So we have the following spritesheet.
 
-![Sprite Sheet](code/img/character.png)
+![Sprite Sheet](docs/img/character.png)
 
 As you can see in the image above we have 6 columns and 2 rows. The first row is for right movement and the second row is for left.
 
